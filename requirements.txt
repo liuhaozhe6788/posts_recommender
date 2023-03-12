@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+feather-format
+pyplotz
+pyqt5
+icecream
+opencv-python-headless
