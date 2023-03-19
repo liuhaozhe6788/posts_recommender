@@ -8,3 +8,5 @@ pyplotz
 pyqt5
 icecream
 opencv-python-headless
+openpyxl
+PyInstaller

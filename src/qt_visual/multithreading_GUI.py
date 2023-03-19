@@ -69,8 +69,6 @@ class UI(QWidget):
                                   "user_cf_in_hybrid_cf_top_n_recommendation_map.feather",
                                   hybrid_cf_params[0])
         self.hybrid_cf.get_top_n()
-        self.setFixedWidth(1850)
-        self.setFixedHeight(1000)
 
         # 增加用户ID输入框
         self.yes_btn = QPushButton()
