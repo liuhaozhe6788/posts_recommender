@@ -15,8 +15,7 @@ item_cf_in_hybrid_cf_top_n_recommendation_map.feather和user_cf_top_n_recommenda
 "hybrid_cf"对应混合协同过滤
 
 # 运行代码的命令：
-1.运行主程序：python main.py<br>
-2.运行GUI程序：python aifunwatcher.py
+运行GUI程序：python src/aifunwatcher.py
 
 # 类数据库实例如下
 ```json
