@@ -64,3 +64,8 @@ data = {
         }
     }
 }
+# GUI推荐结果：
+## 用户点赞的内容：
+![alt text](https://github.com/liuhaozhe6788/posts_recommender/blob/master/img/AIFUN_1.jpg?raw=true)
+## HybridCF算法推荐的内容：
+![alt text](https://github.com/liuhaozhe6788/posts_recommender/blob/master/img/AIFUN_2.jpg?raw=true)
